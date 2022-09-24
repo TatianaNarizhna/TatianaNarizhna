@@ -23,7 +23,7 @@ ___
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/js.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/react.png" />]()
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/redux.png" />]()
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/ts.png" />]()
+
 
 
 
